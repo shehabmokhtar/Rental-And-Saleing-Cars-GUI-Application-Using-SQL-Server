@@ -1,0 +1,286 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Me\\Work\\Rental Cars Application (GUI)\\rental_cars_application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A17DBBC1-4CFD-4461-99DC-ACCEFC05AF89}|rental_cars_application\\rental_cars_application.csproj|d:\\me\\work\\rental cars application (gui)\\rental_cars_application\\rental_cars_application\\modules\\home\\presentation\\forms\\customer\\buyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A17DBBC1-4CFD-4461-99DC-ACCEFC05AF89}|rental_cars_application\\rental_cars_application.csproj|solutionrelative:rental_cars_application\\modules\\home\\presentation\\forms\\customer\\buyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17DBBC1-4CFD-4461-99DC-ACCEFC05AF89}|rental_cars_application\\rental_cars_application.csproj|d:\\me\\work\\rental cars application (gui)\\rental_cars_application\\rental_cars_application\\modules\\home\\presentation\\forms\\customer\\rentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A17DBBC1-4CFD-4461-99DC-ACCEFC05AF89}|rental_cars_application\\rental_cars_application.csproj|solutionrelative:rental_cars_application\\modules\\home\\presentation\\forms\\customer\\rentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17DBBC1-4CFD-4461-99DC-ACCEFC05AF89}|rental_cars_application\\rental_cars_application.csproj|d:\\me\\work\\rental cars application (gui)\\rental_cars_application\\rental_cars_application\\modules\\home\\presentation\\forms\\customer\\buyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17DBBC1-4CFD-4461-99DC-ACCEFC05AF89}|rental_cars_application\\rental_cars_application.csproj|solutionrelative:rental_cars_application\\modules\\home\\presentation\\forms\\customer\\buyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17DBBC1-4CFD-4461-99DC-ACCEFC05AF89}|rental_cars_application\\rental_cars_application.csproj|d:\\me\\work\\rental cars application (gui)\\rental_cars_application\\rental_cars_application\\modules\\home\\presentation\\items\\vehicleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17DBBC1-4CFD-4461-99DC-ACCEFC05AF89}|rental_cars_application\\rental_cars_application.csproj|solutionrelative:rental_cars_application\\modules\\home\\presentation\\items\\vehicleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17DBBC1-4CFD-4461-99DC-ACCEFC05AF89}|rental_cars_application\\rental_cars_application.csproj|d:\\me\\work\\rental cars application (gui)\\rental_cars_application\\rental_cars_application\\modules\\home\\presentation\\items\\vehicleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A17DBBC1-4CFD-4461-99DC-ACCEFC05AF89}|rental_cars_application\\rental_cars_application.csproj|solutionrelative:rental_cars_application\\modules\\home\\presentation\\items\\vehicleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17DBBC1-4CFD-4461-99DC-ACCEFC05AF89}|rental_cars_application\\rental_cars_application.csproj|d:\\me\\work\\rental cars application (gui)\\rental_cars_application\\rental_cars_application\\modules\\home\\presentation\\forms\\customer\\customerhomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A17DBBC1-4CFD-4461-99DC-ACCEFC05AF89}|rental_cars_application\\rental_cars_application.csproj|solutionrelative:rental_cars_application\\modules\\home\\presentation\\forms\\customer\\customerhomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17DBBC1-4CFD-4461-99DC-ACCEFC05AF89}|rental_cars_application\\rental_cars_application.csproj|d:\\me\\work\\rental cars application (gui)\\rental_cars_application\\rental_cars_application\\modules\\home\\presentation\\forms\\customer\\rentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17DBBC1-4CFD-4461-99DC-ACCEFC05AF89}|rental_cars_application\\rental_cars_application.csproj|solutionrelative:rental_cars_application\\modules\\home\\presentation\\forms\\customer\\rentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17DBBC1-4CFD-4461-99DC-ACCEFC05AF89}|rental_cars_application\\rental_cars_application.csproj|d:\\me\\work\\rental cars application (gui)\\rental_cars_application\\rental_cars_application\\modules\\home\\data\\repositories\\employe_repo\\vehiclesrepoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17DBBC1-4CFD-4461-99DC-ACCEFC05AF89}|rental_cars_application\\rental_cars_application.csproj|solutionrelative:rental_cars_application\\modules\\home\\data\\repositories\\employe_repo\\vehiclesrepoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17DBBC1-4CFD-4461-99DC-ACCEFC05AF89}|rental_cars_application\\rental_cars_application.csproj|d:\\me\\work\\rental cars application (gui)\\rental_cars_application\\rental_cars_application\\core\\utilities\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17DBBC1-4CFD-4461-99DC-ACCEFC05AF89}|rental_cars_application\\rental_cars_application.csproj|solutionrelative:rental_cars_application\\core\\utilities\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17DBBC1-4CFD-4461-99DC-ACCEFC05AF89}|rental_cars_application\\rental_cars_application.csproj|d:\\me\\work\\rental cars application (gui)\\rental_cars_application\\rental_cars_application\\modules\\home\\presentation\\forms\\customer\\customerhomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17DBBC1-4CFD-4461-99DC-ACCEFC05AF89}|rental_cars_application\\rental_cars_application.csproj|solutionrelative:rental_cars_application\\modules\\home\\presentation\\forms\\customer\\customerhomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17DBBC1-4CFD-4461-99DC-ACCEFC05AF89}|rental_cars_application\\rental_cars_application.csproj|d:\\me\\work\\rental cars application (gui)\\rental_cars_application\\rental_cars_application\\modules\\home\\presentation\\forms\\employee\\employeehomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17DBBC1-4CFD-4461-99DC-ACCEFC05AF89}|rental_cars_application\\rental_cars_application.csproj|solutionrelative:rental_cars_application\\modules\\home\\presentation\\forms\\employee\\employeehomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17DBBC1-4CFD-4461-99DC-ACCEFC05AF89}|rental_cars_application\\rental_cars_application.csproj|d:\\me\\work\\rental cars application (gui)\\rental_cars_application\\rental_cars_application\\modules\\home\\presentation\\forms\\employee\\employeehomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A17DBBC1-4CFD-4461-99DC-ACCEFC05AF89}|rental_cars_application\\rental_cars_application.csproj|solutionrelative:rental_cars_application\\modules\\home\\presentation\\forms\\employee\\employeehomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17DBBC1-4CFD-4461-99DC-ACCEFC05AF89}|rental_cars_application\\rental_cars_application.csproj|d:\\me\\work\\rental cars application (gui)\\rental_cars_application\\rental_cars_application\\modules\\home\\presentation\\forms\\employee\\addnewvehicleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17DBBC1-4CFD-4461-99DC-ACCEFC05AF89}|rental_cars_application\\rental_cars_application.csproj|solutionrelative:rental_cars_application\\modules\\home\\presentation\\forms\\employee\\addnewvehicleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17DBBC1-4CFD-4461-99DC-ACCEFC05AF89}|rental_cars_application\\rental_cars_application.csproj|d:\\me\\work\\rental cars application (gui)\\rental_cars_application\\rental_cars_application\\modules\\home\\presentation\\forms\\employee\\addnewvehicleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A17DBBC1-4CFD-4461-99DC-ACCEFC05AF89}|rental_cars_application\\rental_cars_application.csproj|solutionrelative:rental_cars_application\\modules\\home\\presentation\\forms\\employee\\addnewvehicleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17DBBC1-4CFD-4461-99DC-ACCEFC05AF89}|rental_cars_application\\rental_cars_application.csproj|d:\\me\\work\\rental cars application (gui)\\rental_cars_application\\rental_cars_application\\modules\\home\\data\\repositories\\employe_repo\\vehiclesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17DBBC1-4CFD-4461-99DC-ACCEFC05AF89}|rental_cars_application\\rental_cars_application.csproj|solutionrelative:rental_cars_application\\modules\\home\\data\\repositories\\employe_repo\\vehiclesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17DBBC1-4CFD-4461-99DC-ACCEFC05AF89}|rental_cars_application\\rental_cars_application.csproj|d:\\me\\work\\rental cars application (gui)\\rental_cars_application\\rental_cars_application\\modules\\home\\data\\models\\vehiclemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17DBBC1-4CFD-4461-99DC-ACCEFC05AF89}|rental_cars_application\\rental_cars_application.csproj|solutionrelative:rental_cars_application\\modules\\home\\data\\models\\vehiclemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RentForm.cs",
+              "DocumentMoniker": "D:\\Me\\Work\\Rental Cars Application (GUI)\\rental_cars_application\\rental_cars_application\\modules\\home\\presentation\\forms\\customer\\RentForm.cs",
+              "RelativeDocumentMoniker": "rental_cars_application\\modules\\home\\presentation\\forms\\customer\\RentForm.cs",
+              "ToolTip": "D:\\Me\\Work\\Rental Cars Application (GUI)\\rental_cars_application\\rental_cars_application\\modules\\home\\presentation\\forms\\customer\\RentForm.cs",
+              "RelativeToolTip": "rental_cars_application\\modules\\home\\presentation\\forms\\customer\\RentForm.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAzwBcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T00:45:59.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RentForm.cs [Design]",
+              "DocumentMoniker": "D:\\Me\\Work\\Rental Cars Application (GUI)\\rental_cars_application\\rental_cars_application\\modules\\home\\presentation\\forms\\customer\\RentForm.cs",
+              "RelativeDocumentMoniker": "rental_cars_application\\modules\\home\\presentation\\forms\\customer\\RentForm.cs",
+              "ToolTip": "D:\\Me\\Work\\Rental Cars Application (GUI)\\rental_cars_application\\rental_cars_application\\modules\\home\\presentation\\forms\\customer\\RentForm.cs [Design]",
+              "RelativeToolTip": "rental_cars_application\\modules\\home\\presentation\\forms\\customer\\RentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T00:42:17.298Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BuyForm.cs",
+              "DocumentMoniker": "D:\\Me\\Work\\Rental Cars Application (GUI)\\rental_cars_application\\rental_cars_application\\modules\\home\\presentation\\forms\\customer\\BuyForm.cs",
+              "RelativeDocumentMoniker": "rental_cars_application\\modules\\home\\presentation\\forms\\customer\\BuyForm.cs",
+              "ToolTip": "D:\\Me\\Work\\Rental Cars Application (GUI)\\rental_cars_application\\rental_cars_application\\modules\\home\\presentation\\forms\\customer\\BuyForm.cs",
+              "RelativeToolTip": "rental_cars_application\\modules\\home\\presentation\\forms\\customer\\BuyForm.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T00:15:38.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BuyForm.cs [Design]",
+              "DocumentMoniker": "D:\\Me\\Work\\Rental Cars Application (GUI)\\rental_cars_application\\rental_cars_application\\modules\\home\\presentation\\forms\\customer\\BuyForm.cs",
+              "RelativeDocumentMoniker": "rental_cars_application\\modules\\home\\presentation\\forms\\customer\\BuyForm.cs",
+              "ToolTip": "D:\\Me\\Work\\Rental Cars Application (GUI)\\rental_cars_application\\rental_cars_application\\modules\\home\\presentation\\forms\\customer\\BuyForm.cs [Design]",
+              "RelativeToolTip": "rental_cars_application\\modules\\home\\presentation\\forms\\customer\\BuyForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T00:14:44.28Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerHomeForm.cs",
+              "DocumentMoniker": "D:\\Me\\Work\\Rental Cars Application (GUI)\\rental_cars_application\\rental_cars_application\\modules\\home\\presentation\\forms\\customer\\CustomerHomeForm.cs",
+              "RelativeDocumentMoniker": "rental_cars_application\\modules\\home\\presentation\\forms\\customer\\CustomerHomeForm.cs",
+              "ToolTip": "D:\\Me\\Work\\Rental Cars Application (GUI)\\rental_cars_application\\rental_cars_application\\modules\\home\\presentation\\forms\\customer\\CustomerHomeForm.cs",
+              "RelativeToolTip": "rental_cars_application\\modules\\home\\presentation\\forms\\customer\\CustomerHomeForm.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAywBcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T23:52:54.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerHomeForm.cs [Design]",
+              "DocumentMoniker": "D:\\Me\\Work\\Rental Cars Application (GUI)\\rental_cars_application\\rental_cars_application\\modules\\home\\presentation\\forms\\customer\\CustomerHomeForm.cs",
+              "RelativeDocumentMoniker": "rental_cars_application\\modules\\home\\presentation\\forms\\customer\\CustomerHomeForm.cs",
+              "ToolTip": "D:\\Me\\Work\\Rental Cars Application (GUI)\\rental_cars_application\\rental_cars_application\\modules\\home\\presentation\\forms\\customer\\CustomerHomeForm.cs [Design]",
+              "RelativeToolTip": "rental_cars_application\\modules\\home\\presentation\\forms\\customer\\CustomerHomeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T23:52:52.387Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeHomeForm.cs",
+              "DocumentMoniker": "D:\\Me\\Work\\Rental Cars Application (GUI)\\rental_cars_application\\rental_cars_application\\modules\\home\\presentation\\forms\\employee\\EmployeeHomeForm.cs",
+              "RelativeDocumentMoniker": "rental_cars_application\\modules\\home\\presentation\\forms\\employee\\EmployeeHomeForm.cs",
+              "ToolTip": "D:\\Me\\Work\\Rental Cars Application (GUI)\\rental_cars_application\\rental_cars_application\\modules\\home\\presentation\\forms\\employee\\EmployeeHomeForm.cs",
+              "RelativeToolTip": "rental_cars_application\\modules\\home\\presentation\\forms\\employee\\EmployeeHomeForm.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAApwEYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T23:25:50.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeHomeForm.cs [Design]",
+              "DocumentMoniker": "D:\\Me\\Work\\Rental Cars Application (GUI)\\rental_cars_application\\rental_cars_application\\modules\\home\\presentation\\forms\\employee\\EmployeeHomeForm.cs",
+              "RelativeDocumentMoniker": "rental_cars_application\\modules\\home\\presentation\\forms\\employee\\EmployeeHomeForm.cs",
+              "ToolTip": "D:\\Me\\Work\\Rental Cars Application (GUI)\\rental_cars_application\\rental_cars_application\\modules\\home\\presentation\\forms\\employee\\EmployeeHomeForm.cs [Design]",
+              "RelativeToolTip": "rental_cars_application\\modules\\home\\presentation\\forms\\employee\\EmployeeHomeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T23:25:48.646Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VehiclesRepo.cs",
+              "DocumentMoniker": "D:\\Me\\Work\\Rental Cars Application (GUI)\\rental_cars_application\\rental_cars_application\\modules\\home\\data\\repositories\\employe_repo\\VehiclesRepo.cs",
+              "RelativeDocumentMoniker": "rental_cars_application\\modules\\home\\data\\repositories\\employe_repo\\VehiclesRepo.cs",
+              "ToolTip": "D:\\Me\\Work\\Rental Cars Application (GUI)\\rental_cars_application\\rental_cars_application\\modules\\home\\data\\repositories\\employe_repo\\VehiclesRepo.cs",
+              "RelativeToolTip": "rental_cars_application\\modules\\home\\data\\repositories\\employe_repo\\VehiclesRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T23:11:10.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VehiclesRepoImpl.cs",
+              "DocumentMoniker": "D:\\Me\\Work\\Rental Cars Application (GUI)\\rental_cars_application\\rental_cars_application\\modules\\home\\data\\repositories\\employe_repo\\VehiclesRepoImpl.cs",
+              "RelativeDocumentMoniker": "rental_cars_application\\modules\\home\\data\\repositories\\employe_repo\\VehiclesRepoImpl.cs",
+              "ToolTip": "D:\\Me\\Work\\Rental Cars Application (GUI)\\rental_cars_application\\rental_cars_application\\modules\\home\\data\\repositories\\employe_repo\\VehiclesRepoImpl.cs",
+              "RelativeToolTip": "rental_cars_application\\modules\\home\\data\\repositories\\employe_repo\\VehiclesRepoImpl.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAYwDgAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T23:11:09.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VehicleModel.cs",
+              "DocumentMoniker": "D:\\Me\\Work\\Rental Cars Application (GUI)\\rental_cars_application\\rental_cars_application\\modules\\home\\data\\models\\VehicleModel.cs",
+              "RelativeDocumentMoniker": "rental_cars_application\\modules\\home\\data\\models\\VehicleModel.cs",
+              "ToolTip": "D:\\Me\\Work\\Rental Cars Application (GUI)\\rental_cars_application\\rental_cars_application\\modules\\home\\data\\models\\VehicleModel.cs",
+              "RelativeToolTip": "rental_cars_application\\modules\\home\\data\\models\\VehicleModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T22:58:58.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "D:\\Me\\Work\\Rental Cars Application (GUI)\\rental_cars_application\\rental_cars_application\\core\\utilities\\Utilities.cs",
+              "RelativeDocumentMoniker": "rental_cars_application\\core\\utilities\\Utilities.cs",
+              "ToolTip": "D:\\Me\\Work\\Rental Cars Application (GUI)\\rental_cars_application\\rental_cars_application\\core\\utilities\\Utilities.cs",
+              "RelativeToolTip": "rental_cars_application\\core\\utilities\\Utilities.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAzwGYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T22:35:44.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehicleItem.cs",
+              "DocumentMoniker": "D:\\Me\\Work\\Rental Cars Application (GUI)\\rental_cars_application\\rental_cars_application\\modules\\home\\presentation\\items\\VehicleItem.cs",
+              "RelativeDocumentMoniker": "rental_cars_application\\modules\\home\\presentation\\items\\VehicleItem.cs",
+              "ToolTip": "D:\\Me\\Work\\Rental Cars Application (GUI)\\rental_cars_application\\rental_cars_application\\modules\\home\\presentation\\items\\VehicleItem.cs",
+              "RelativeToolTip": "rental_cars_application\\modules\\home\\presentation\\items\\VehicleItem.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAowLcAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T22:23:04.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VehicleItem.cs [Design]",
+              "DocumentMoniker": "D:\\Me\\Work\\Rental Cars Application (GUI)\\rental_cars_application\\rental_cars_application\\modules\\home\\presentation\\items\\VehicleItem.cs",
+              "RelativeDocumentMoniker": "rental_cars_application\\modules\\home\\presentation\\items\\VehicleItem.cs",
+              "ToolTip": "D:\\Me\\Work\\Rental Cars Application (GUI)\\rental_cars_application\\rental_cars_application\\modules\\home\\presentation\\items\\VehicleItem.cs [Design]",
+              "RelativeToolTip": "rental_cars_application\\modules\\home\\presentation\\items\\VehicleItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T22:23:01.504Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddNewVehicleForm.cs",
+              "DocumentMoniker": "D:\\Me\\Work\\Rental Cars Application (GUI)\\rental_cars_application\\rental_cars_application\\modules\\home\\presentation\\forms\\employee\\AddNewVehicleForm.cs",
+              "RelativeDocumentMoniker": "rental_cars_application\\modules\\home\\presentation\\forms\\employee\\AddNewVehicleForm.cs",
+              "ToolTip": "D:\\Me\\Work\\Rental Cars Application (GUI)\\rental_cars_application\\rental_cars_application\\modules\\home\\presentation\\forms\\employee\\AddNewVehicleForm.cs",
+              "RelativeToolTip": "rental_cars_application\\modules\\home\\presentation\\forms\\employee\\AddNewVehicleForm.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAIAywKUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T22:21:26.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddNewVehicleForm.cs [Design]",
+              "DocumentMoniker": "D:\\Me\\Work\\Rental Cars Application (GUI)\\rental_cars_application\\rental_cars_application\\modules\\home\\presentation\\forms\\employee\\AddNewVehicleForm.cs",
+              "RelativeDocumentMoniker": "rental_cars_application\\modules\\home\\presentation\\forms\\employee\\AddNewVehicleForm.cs",
+              "ToolTip": "D:\\Me\\Work\\Rental Cars Application (GUI)\\rental_cars_application\\rental_cars_application\\modules\\home\\presentation\\forms\\employee\\AddNewVehicleForm.cs [Design]",
+              "RelativeToolTip": "rental_cars_application\\modules\\home\\presentation\\forms\\employee\\AddNewVehicleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T22:21:24.879Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

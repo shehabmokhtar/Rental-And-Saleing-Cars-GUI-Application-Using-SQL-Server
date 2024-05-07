@@ -1,0 +1,67 @@
+D:\Me\Programming\Projects\C#\rental_cars_application\rental_cars_application\bin\Debug\rental_cars_application.exe
+D:\Me\Programming\Projects\C#\rental_cars_application\rental_cars_application\bin\Debug\rental_cars_application.exe.config
+D:\Me\Programming\Projects\C#\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.csproj.AssemblyReference.cache
+D:\Me\Programming\Projects\C#\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.SignInForm.resources
+D:\Me\Programming\Projects\C#\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.Properties.Resources.resources
+D:\Me\Programming\Projects\C#\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.SignUpForm.resources
+D:\Me\Programming\Projects\C#\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.csproj.GenerateResource.cache
+D:\Me\Programming\Projects\C#\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.csproj.CoreCompileInputs.cache
+D:\Me\Programming\Projects\C#\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.exe
+D:\Me\Programming\Projects\C#\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.pdb
+D:\Me\Programming\Projects\C#\rental_cars_application\rental_cars_application\bin\Debug\rental_cars_application.pdb
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\bin\Debug\rental_cars_application.exe.config
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\bin\Debug\rental_cars_application.exe
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\bin\Debug\rental_cars_application.pdb
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.csproj.AssemblyReference.cache
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.SignInForm.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.modules.home.presentation.forms.AddNewVehicleForm.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.modules.home.presentation.CustomerHomeForm.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.modules.home.presentation.forms.employee.EditVehicleForm.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.modules.home.presentation.EmployeeHomeForm.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.modules.home.presentation.forms.employee.TrackVehicleForm.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.modules.home.presentation.items.VehicleItem.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.modules.settings.presentation.forms.CustomerSettingsForm.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.modules.settings.presentation.forms.EmployeeSettingsForm.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.modules.support.presentation.forms.CustomerSupportForm.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.modules.support.presentation.forms.EmployeeSupportForm.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.Properties.Resources.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.SignUpForm.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.csproj.GenerateResource.cache
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.csproj.CoreCompileInputs.cache
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.exe
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.pdb
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.modules.home.presentation.forms.customer.BuyForm.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.modules.home.presentation.forms.customer.RentForm.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\rental_cars_application\bin\Debug\rental_cars_application.exe
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\rental_cars_application\bin\Debug\rental_cars_application.exe.config
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\rental_cars_application\bin\Debug\rental_cars_application.pdb
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.csproj.AssemblyReference.cache
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.SignInForm.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.modules.home.presentation.forms.customer.BuyForm.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.modules.home.presentation.forms.customer.RentForm.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.modules.home.presentation.forms.customer.SetCurrentLocationForm.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.modules.home.presentation.forms.AddNewVehicleForm.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.modules.home.presentation.CustomerHomeForm.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.modules.home.presentation.forms.employee.EditVehicleForm.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.modules.home.presentation.EmployeeHomeForm.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.modules.home.presentation.forms.employee.TrackVehicleForm.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.modules.home.presentation.items.VehicleItem.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.modules.invoices.presentation.forms.CustomerInoviesForm.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.modules.invoices.presentation.items.InvoiceItem.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.modules.payment_methods.presentation.forms.CustomerPaymentMethodForm.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.modules.receipts.presentation.forms.CustomerReceiptsForm.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.modules.settings.presentation.forms.CustomerSettingsForm.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.modules.settings.presentation.forms.EmployeeSettingsForm.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.modules.support.presentation.forms.CustomerSupportForm.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.modules.support.presentation.forms.EmployeeSupportForm.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.modules.support.presentation.forms.SupportForm.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.Properties.Resources.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.SignUpForm.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.csproj.GenerateResource.cache
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.csproj.CoreCompileInputs.cache
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.exe
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.pdb
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.modules.support.presentation.items.MessageItemm.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.modules.support.presentation.items.MessageUserControl.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.modules.settings.presentation.items.ProfileItem.resources
+D:\Me\Work\Rental Cars Application (GUI)\rental_cars_application\rental_cars_application\rental_cars_application\obj\Debug\rental_cars_application.modules.receipts.presentation.items.ReceiptUserControl.resources
